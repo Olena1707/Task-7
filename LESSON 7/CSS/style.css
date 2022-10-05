@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    max-width: 810px;
+    margin: 0 auto;
+    color: #424551;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    margin-bottom: 92px;
+}
+
+.image {
+    margin-bottom: 60px;
+}
+
+.paragraph-1 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin-bottom: 24px;
+}
+
+.paragraph-2 p{
+    margin-bottom: 30px;
+}
+
+.paragraph-3 {
+    margin-top: 48px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin-bottom: 48px;
+    padding-left: 58px;
+    background: url(../IMG/ICONS/Rectangle\ 267.png) 0 0 no-repeat, url(../IMG/ICONS/Rectangle\ 268.png) 19px 0 no-repeat;
+}
+
+.paragraph-4 {
+    margin-bottom: 24px;
+}
+
+.table {
+    margin-bottom: 24px;
+}
+
+li {
+    margin-bottom: 4px;
+    padding-left: 33px;
+    background: url(../IMG/ICONS/Vector.jpg) 0 5px no-repeat;
+    min-width: 15px;
+}
+
+.test {
+    margin-top: 50px;
+    min-width: 1230px;
+    background: url(../IMG/ultimate-wall-e-7.jpg) 0 0/100px 180px space, url(../IMG/image.png) 100% 0 no-repeat, url(../IMG/ICONS/Rectangle\ 268.png) 100% 100% no-repeat;
+}
